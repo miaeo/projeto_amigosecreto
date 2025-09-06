@@ -3,7 +3,7 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 
 ---
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - `Adicionar amigos:` insira nomes na lista e visualize-os.  
 - `Excluir amigos:` passe o mouse sobre o coração e clique no X para remover.  
@@ -12,7 +12,7 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 - `Controle de som:` botão para ligar/desligar o som.  
 - `Responsividade:` layout adaptado para desktop e mobile.  
 
-## Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
 - `HTML5 `
 - `CSS3`
@@ -20,10 +20,10 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 
 ---
 
-## Acesso ao projeto
+## 📁 Acesso ao projeto
 A aplicação pode ser acessada online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto/ 💖
 
-## Abrir e rodar o projeto
+## 🛠️ Abrir e rodar o projeto
 
 ### 1. Clone o repositório
 
