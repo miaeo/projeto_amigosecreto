@@ -18,7 +18,7 @@ O objetivo é criar uma aplicação interativa que permita aos usuários adicion
 
 ## ✔️ Tecnologias utilizadas
 
-- `HTML5 `
+- `HTML5`
 - `CSS3`
 - `JavaScript`
 
