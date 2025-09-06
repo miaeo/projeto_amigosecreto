@@ -14,13 +14,16 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 
 ## Tecnologias utilizadas
 
-- HTML5 
-- CSS3
-- JavaScript
+- `HTML5 `
+- `CSS3`
+- `JavaScript`
 
 ---
 
-## Como acessar (local ou online)
+## Acesso ao projeto
+A aplicação pode ser acessada online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto/ 💖
+
+## Abrir e rodar o projeto
 
 ### 1. Clone o repositório
 
@@ -30,7 +33,6 @@ cd projeto_amigosecreto
 ```
 
 ### 2. Abra o arquivo index.html no navegador
-ou acesse online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto/ 💖
 
 <br>
 <div align="right">Made with 💜 by <a href="https://github.com/miaeo">miaeo</a>.</div>
