@@ -1,9 +1,13 @@
 <p align="center">
 <img width="494" height="100" src="https://github.com/user-attachments/assets/2efb9c8f-5872-40d9-b26d-d722b6c34c3f" />
-</p> 
+</p>
 
 Este projeto é um **Challenge ONE** da Alura, desenvolvido para colocar em prática conceitos de desenvolvimento web. 
 O objetivo é criar uma aplicação interativa que permita aos usuários adicionar participantes, sortear amigos de forma aleatória e interagir com a lista de maneira dinâmica e intuitiva.
+
+<p align="right">
+<img src="https://img.shields.io/badge/status-finalizado-blue"> <img src="https://img.shields.io/github/license/miaeo/projeto_amigosecreto/"> <img src="https://img.shields.io/github/stars/miaeo?style=social">
+</p>
 
 ---
 
