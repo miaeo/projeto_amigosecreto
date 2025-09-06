@@ -6,7 +6,7 @@ Este projeto é um **Challenge ONE** da Alura, desenvolvido para colocar em prá
 O objetivo é criar uma aplicação interativa que permita aos usuários adicionar participantes, sortear amigos de forma aleatória e interagir com a lista de maneira dinâmica e intuitiva.
 
 <p align="right">
-<img src="https://img.shields.io/badge/status-finalizado-blue"> <img src="https://img.shields.io/badge/license-MIT-green"> <img src="https://img.shields.io/github/stars/miaeo?style=social">
+<img src="https://img.shields.io/badge/status-em_desenvolvimento-blue"> <img src="https://img.shields.io/badge/license-MIT-green"> <img src="https://img.shields.io/github/stars/miaeo?style=social">
 </p>
 
 ---
