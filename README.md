@@ -32,4 +32,7 @@ ou acesse online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto
 
 - HTML5 
 - CSS3
-- JavaScript  
+- JavaScript
+
+<br>
+<div align="right">Made with 💜 by <a href="https://github.com/miaeo">miaeo</a>.</div>
