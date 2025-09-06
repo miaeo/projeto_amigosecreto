@@ -1,5 +1,5 @@
 # Amigo Secreto
-Este projeto é um **Challenge ONE** da Alura, desenvolvido para colocar em prática conceitos de desenvolvimento web. O objetivo é criar uma **aplicação interativa de Amigo Secreto** que permita aos usuários adicionar participantes, sortear amigos de forma aleatória e interagir com a lista de maneira dinâmica e intuitiva. A aplicação também explora UX/UI com animações suaves, efeitos sonoros e responsividade.
+Este projeto é um **Challenge ONE** da Alura, desenvolvido para colocar em prática conceitos de desenvolvimento web. O objetivo é criar uma **aplicação interativa de Amigo Secreto** que permita aos usuários adicionar participantes, sortear amigos de forma aleatória e interagir com a lista de maneira dinâmica e intuitiva.
 
 ---
 
