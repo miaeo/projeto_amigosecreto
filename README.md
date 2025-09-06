@@ -1,6 +1,8 @@
 # Amigo Secreto
 Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de Amigo Secreto** com funcionalidades dinâmicas. 
 
+---
+
 ## Funcionalidades
 
 - **Adicionar amigos:** insira nomes na lista e visualize-os.  
