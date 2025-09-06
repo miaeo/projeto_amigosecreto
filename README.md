@@ -1,5 +1,5 @@
 # Amigo Secreto
-Este projeto é um **Challenge ONE**, que utiliza a metodologia **Challenge Based Learning** para colocar em prática habilidades de desenvolvimento web.  O objetivo do projeto é criar uma **aplicação de Amigo Secreto** com funcionalidades dinâmicas. 
+Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de Amigo Secreto** com funcionalidades dinâmicas. 
 
 ## Funcionalidades
 
