@@ -12,7 +12,7 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 - `Controle de som:` botão para ligar/desligar o som.  
 - `Responsividade:` layout adaptado para desktop e mobile.  
 
-## 🛠 Tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 
 - `HTML5 `
 - `CSS3`
