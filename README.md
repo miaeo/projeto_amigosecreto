@@ -24,3 +24,11 @@ cd projeto_amigosecreto
 ```
 
 ### 2. Abra o arquivo index.html no navegador
+
+---
+
+## Tecnologias utilizadas
+
+- HTML5 
+- CSS3
+- JavaScript  
