@@ -14,7 +14,7 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 
 ---
 
-## Como usar / acessar
+## Como acessar (local ou online)
 
 ### 1. Clone o repositório
 
