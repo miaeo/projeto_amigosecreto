@@ -12,6 +12,12 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 - **Controle de som:** botão para ligar/desligar o som.  
 - **Responsividade:** layout adaptado para desktop e mobile.  
 
+## Tecnologias utilizadas
+
+- HTML5 
+- CSS3
+- JavaScript
+
 ---
 
 ## Como acessar (local ou online)
@@ -25,14 +31,6 @@ cd projeto_amigosecreto
 
 ### 2. Abra o arquivo index.html no navegador
 ou acesse online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto/ 💖
-
----
-
-## Tecnologias utilizadas
-
-- HTML5 
-- CSS3
-- JavaScript
 
 <br>
 <div align="right">Made with 💜 by <a href="https://github.com/miaeo">miaeo</a>.</div>
