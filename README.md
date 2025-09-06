@@ -21,7 +21,7 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 ---
 
 ## 📁 Acesso ao projeto
-A aplicação pode ser acessada online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto/ 💖
+A aplicação pode ser acessada online pelo GitHub Pages: [https://miaeo.github.io/projeto_amigosecreto/](https://miaeo.github.io/projeto_amigosecreto/) 💖
 
 ## 🛠️ Abrir e rodar o projeto
 
