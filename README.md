@@ -14,7 +14,7 @@ Este projeto é um **Challenge ONE**, seu objetivo é criar uma **aplicação de
 
 ---
 
-## Instalação Local
+## Como usar / acessar
 
 ### 1. Clone o repositório
 
@@ -24,6 +24,7 @@ cd projeto_amigosecreto
 ```
 
 ### 2. Abra o arquivo index.html no navegador
+ou acesse online pelo GitHub Pages: https://miaeo.github.io/projeto_amigosecreto/ 💖
 
 ---
 
