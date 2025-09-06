@@ -4,7 +4,7 @@ Este projeto é um **Challenge ONE**, que utiliza a metodologia **Challenge Base
 ## Funcionalidades
 
 - **Adicionar amigos:** insira nomes na lista e visualize-os.  
-- **Excluir amigos:** passe o mouse sobre o nome e clique no coração/X para remover.  
+- **Excluir amigos:** passe o mouse sobre o coração e clique no X para remover.  
 - **Sortear amigo secreto:** escolha aleatoriamente um amigo da lista e exiba o resultado.  
 - **Sons interativos:** efeitos sonoros ao adicionar, remover ou sortear amigos.  
 - **Controle de som:** botão para ligar/desligar o som.  
